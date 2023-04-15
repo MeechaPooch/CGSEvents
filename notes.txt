@@ -1,0 +1,6 @@
+include
+- name
+- picture
+- date + time
+- location
+- preview of info
