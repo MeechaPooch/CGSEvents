@@ -9,3 +9,7 @@
     font-family: featly;
     src: url(fonts/featly.ttf);
 }
+@font-face {
+    font-family: scribblebox;
+    src: url(fonts/scribblebox.ttf);
+}

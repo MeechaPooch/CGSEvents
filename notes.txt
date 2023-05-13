@@ -4,3 +4,7 @@ include
 - date + time
 - location
 - preview of info
+
+
+add page
+select either/or: info/image
