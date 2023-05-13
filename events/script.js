@@ -99,5 +99,5 @@ addEventLater("RICKY MONTGOMERY TOUR!","","Jan 4", "5pm","Shaff", 'https://s9.li
 addEventLater("Basketball Games VS Oberlin","Watch our eags whoop music major virgin ass ass","Jan 4", "5pm","Schaff Circle", 'https://cdn.vox-cdn.com/thumbor/S2sNHpsVbkG-WFFyYY_Tel3yj08=/0x0:4506x2802/1200x800/filters:focal(1525x376:2245x1096)/cdn.vox-cdn.com/uploads/chorus_image/image/70297114/1293213332.0.jpg')
 addEventLater("Rock Band Performance",'A night of great rock, selected and performed by our band "Areas of Growth"',"Jan 15", "5pm","Cabell", 'https://trixondrumsusa.com/wp-content/uploads/2019/09/trixon-5pc-drum-set-transparent-blue.jpg')
 addEventLater("Senior Graduation Class of 2023",null,"Jun 15", "10am-2pm","The Paddock", '#38a7fc')
-addEventLater("CG Theater One-Acts","Students have been working hard writing, directing and starring in these eleven single-act short plays.",'May 12','7pm',"Cabell Theater",'https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1661978008/catlingabel/ufbbpvuxcv0xopa05q9i/1275x675-performances-1.jpg')
+addEventLater("CG Theater One-Acts","Students have been working hard writing, directing and starring in eleven single-act short plays.",'May 12','7pm',"Cabell Theater",'https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1661978008/catlingabel/ufbbpvuxcv0xopa05q9i/1275x675-performances-1.jpg')
 }
