@@ -27,7 +27,7 @@ function getEventBubble(name,content,date,time,location,color) {
     color1.hsl.l+=20
     color1.hsl.s+=40
     // color2.hsl.l-=10
-    color2.hsl.s+=00
+    color2.hsl.s+=0
     bg = `linear-gradient(45deg, ${color2},${color1})`
         } catch(e) {
             bg = `linear-gradient(45deg, rgba(255, 255, 255, 0.267),rgba(0, 0, 0, 0.211)), linear-gradient(45deg, ${color}, ${color})`
@@ -97,5 +97,7 @@ addEventLater("Peggy Orenstein Author Visit","Author of 'Girls and Sex' and 'Boy
 // addEventLater("Guest Speaker Laurie Mills","Author of 'Girls and Sex' and 'Boys and Sex' speaks about gender in highschool.","Jan 4", "5pm","Gerlinger", 'https://images.squarespace-cdn.com/content/v1/5a6935a029f187b0f218bf74/1518817690799-NNIK189ODHHX201PAWTB/Girls_and_Sex_by_Peggy_Orenstein2.png')
 addEventLater("RICKY MONTGOMERY TOUR!","","Jan 4", "5pm","Shaff", 'https://s9.limitedrun.com/images/1618510/v600_Screen_Shot_2023-01-10_at_8.50.49_AM.png')
 addEventLater("Basketball Games VS Oberlin","Watch our eags whoop music major virgin ass ass","Jan 4", "5pm","Schaff Circle", 'https://cdn.vox-cdn.com/thumbor/S2sNHpsVbkG-WFFyYY_Tel3yj08=/0x0:4506x2802/1200x800/filters:focal(1525x376:2245x1096)/cdn.vox-cdn.com/uploads/chorus_image/image/70297114/1293213332.0.jpg')
-addEventLater("Rock Band",null,"Jan 15", "5pm","Cabell", 'https://trixondrumsusa.com/wp-content/uploads/2019/09/trixon-5pc-drum-set-transparent-blue.jpg')
+addEventLater("Rock Band Performance",'A night of great rock, selected and performed by our band "Areas of Growth"',"Jan 15", "5pm","Cabell", 'https://trixondrumsusa.com/wp-content/uploads/2019/09/trixon-5pc-drum-set-transparent-blue.jpg')
+addEventLater("Senior Graduation Class of 2023",null,"Jun 15", "10am-2pm","The Paddock", '#38a7fc')
+addEventLater("CG Theater One-Acts","Students have been working hard writing, directing and starring in these eleven single-act short plays.",'May 12','7pm',"Cabell Theater",'https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1661978008/catlingabel/ufbbpvuxcv0xopa05q9i/1275x675-performances-1.jpg')
 }
