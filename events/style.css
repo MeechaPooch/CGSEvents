@@ -145,6 +145,7 @@ today {
 }
 
 .event-bubble {
+    cursor: pointer;
 
     padding: 13rem;
     background-image: linear-gradient(45deg, rgb(53, 255, 53),rgb(0, 197, 49));
@@ -255,6 +256,7 @@ today {
 
 
 .event-content{
+    cursor: text;
     transition:0.3s;
 
    width: 90%;
