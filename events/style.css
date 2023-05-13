@@ -148,6 +148,7 @@ today {
 
     padding: 13rem;
     background-image: linear-gradient(45deg, rgb(53, 255, 53),rgb(0, 197, 49));
+    background-position: center;
     background-size: cover;
     /* background: linear-gradient(45deg, rgba(255, 255, 255, 0.267),rgba(0, 0, 0, 0.211)); */
 
